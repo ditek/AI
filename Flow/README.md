@@ -19,3 +19,6 @@ looks like:
 3 3 0 5 1
 4 3 1 5 5
 ```
+
+## Download
+To try the program, you can download the compiled executable from [here](https://github.com/ditek/AI/blob/master/Flow/AI-Flow/bin/AI_Flow.exe). You can try it out with the included [sample input files](https://github.com/ditek/AI/tree/master/Flow/input-files).
