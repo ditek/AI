@@ -1,7 +1,7 @@
-# Nanograms Puzzle Solver
+# Nonograms Puzzle Solver
 [Nonograms](https://en.wikipedia.org/wiki/Nonogram), also known as Picross or Griddlers, are picture logic puzzles in which cells in a grid must be colored or left blank according to numbers at the side of the grid to reveal a hidden picture.
 
-<img src="images/nanogram_example.png" hspace="20">
+<img src="images/nonogram_example.png" hspace="20">
 
 This program uses A-star and GAC (General Arc-Consistancy) algorithms to solve the puzzle and produce the picture.
 
